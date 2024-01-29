@@ -1,0 +1,17 @@
+F:\programs\pieceWork\pieceWork\obj\Debug\net6.0-windows\pieceWork.csproj.AssemblyReference.cache
+F:\programs\pieceWork\pieceWork\obj\Debug\net6.0-windows\pieceWork.Form1.resources
+F:\programs\pieceWork\pieceWork\obj\Debug\net6.0-windows\pieceWork.csproj.GenerateResource.cache
+F:\programs\pieceWork\pieceWork\obj\Debug\net6.0-windows\pieceWork.GeneratedMSBuildEditorConfig.editorconfig
+F:\programs\pieceWork\pieceWork\obj\Debug\net6.0-windows\pieceWork.AssemblyInfoInputs.cache
+F:\programs\pieceWork\pieceWork\obj\Debug\net6.0-windows\pieceWork.AssemblyInfo.cs
+F:\programs\pieceWork\pieceWork\obj\Debug\net6.0-windows\pieceWork.csproj.CoreCompileInputs.cache
+F:\programs\pieceWork\pieceWork\bin\Debug\net6.0-windows\pieceWork.exe
+F:\programs\pieceWork\pieceWork\bin\Debug\net6.0-windows\pieceWork.deps.json
+F:\programs\pieceWork\pieceWork\bin\Debug\net6.0-windows\pieceWork.runtimeconfig.json
+F:\programs\pieceWork\pieceWork\bin\Debug\net6.0-windows\pieceWork.dll
+F:\programs\pieceWork\pieceWork\bin\Debug\net6.0-windows\pieceWork.pdb
+F:\programs\pieceWork\pieceWork\obj\Debug\net6.0-windows\pieceWork.dll
+F:\programs\pieceWork\pieceWork\obj\Debug\net6.0-windows\refint\pieceWork.dll
+F:\programs\pieceWork\pieceWork\obj\Debug\net6.0-windows\pieceWork.pdb
+F:\programs\pieceWork\pieceWork\obj\Debug\net6.0-windows\pieceWork.genruntimeconfig.cache
+F:\programs\pieceWork\pieceWork\obj\Debug\net6.0-windows\ref\pieceWork.dll
